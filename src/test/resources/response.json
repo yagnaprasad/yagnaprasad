@@ -1,0 +1,20 @@
+{
+  "id": 2,
+  "name": "Mutton",
+  "price": 250.22,
+  "type": "NonVeg",
+  "ingridientEntities": [
+    {
+      "id": 3,
+      "name": "chicken",
+      "quantity": "500g",
+      "recipe_id": 2
+    },
+    {
+      "id": 4,
+      "name": "mutton",
+      "quantity": "200g",
+      "recipe_id": 2
+    }
+  ]
+}
